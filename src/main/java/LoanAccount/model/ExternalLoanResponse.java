@@ -1,4 +1,4 @@
-package src.main.java.com.LoanAccount.model;
+package LoanAccount.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;

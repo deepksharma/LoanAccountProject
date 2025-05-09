@@ -1,9 +1,8 @@
-package src.main.java.com.LoanAccount.controller;
+package LoanAccount.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.AutoConfigurationPackage;
-import src.main.java.com.LoanAccount.model.LoanResponse;
-import src.main.java.com.LoanAccount.service.LoanAccountService;
+import LoanAccount.model.LoanResponse;
+import LoanAccount.service.LoanAccountService;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

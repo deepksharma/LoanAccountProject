@@ -1,4 +1,4 @@
-package src.main.java.com.LoanAccount.model;
+package LoanAccount.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

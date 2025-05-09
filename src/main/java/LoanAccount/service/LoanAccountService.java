@@ -37,12 +37,11 @@
 //        }
 //    }
 //}
-package src.main.java.com.LoanAccount.service;
+package LoanAccount.service;
 
-import src.main.java.com.LoanAccount.model.EmiDetail;
-import src.main.java.com.LoanAccount.model.ExternalLoanResponse;
-import src.main.java.com.LoanAccount.model.LoanResponse;
-import src.main.java.com.LoanAccount.repository.LoanAccountRepository;
+import LoanAccount.model.ExternalLoanResponse;
+import LoanAccount.model.LoanResponse;
+import LoanAccount.repository.LoanAccountRepository;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
